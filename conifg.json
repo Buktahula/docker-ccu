@@ -3,7 +3,7 @@
   "version": "0.2",
   "slug": "ccu2",
   "description": "Homematic CCU2 for Homeassistant",
-  "url": "https://github.com/buktahula/hassio-addons/ccu2",
+  "url": "https://github.com/buktahula/docker-ccu/",
   "webui": "http://[HOST]:[PORT:80]",
   "ports": {
    "80/tcp": null,
